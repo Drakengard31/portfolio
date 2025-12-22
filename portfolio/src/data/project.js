@@ -2,7 +2,7 @@ export const projects = [
     {
         id: "riding-cities",
         title: "Riding Cities",
-        image: "https://images.unsplash.com/photo-1547447134-cd3f5c716030?w=800&h=600&fit=crop",
+        image: "https://word-dev-portfolio.com/wp-content/uploads/2024/01/Reding_Cities.webp",
         description: "Le projet 2 du parcours Intégrateur Web d'OpenClassrooms nous permet de découvrir le langage HTML au travers du site Internet de Riding Cities.",
         longDescription: "Riding Cities est une association de skateboard qui a besoin d'améliorer son site Internet.",
         mission: "Actualiser la page Internet de Riding Cities.",
@@ -26,7 +26,7 @@ export const projects = [
     {
         id: "ohmyfood",
         title: "OhMyFood",
-        image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800&h=600&fit=crop",
+        image: "https://arthurblanc.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F010.b40736b0.jpg&w=3840&q=75",
         description: "Améliorer l'interface d'un site mobile avec des animations CSS.",
         longDescription: "OhMyFood est une jeune startup qui voudrait s'imposer sur le marché de la restauration.",
         mission: 'Développer un site "mobile first" qui répertorie les menus de restaurants gastronomiques avec animations CSS.',
@@ -35,5 +35,5 @@ export const projects = [
         github: "https://github.com/Drakengard31/openclassroomprojet-4",
         demo: "#"
     },
-    // Ajoute les autres projets
+    // mettre les autres projets
 ];

@@ -44,9 +44,7 @@ export default function Header() {
                     </NavLink>
                 </div>
 
-                <div className="theme-toggle">
-                    <span className="theme-icon">☀️</span>
-                </div>
+
             </div>
         </header>
     );

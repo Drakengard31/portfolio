@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Send } from "lucide-react";
+import emailjs from "@emailjs/browser";
 
 export default function Contact() {
     const [formData, setFormData] = useState({
@@ -9,18 +10,44 @@ export default function Contact() {
         message: ""
     });
 
+    const [loading, setLoading] = useState(false);
+
     const handleChange = (e) => {
         setFormData({ ...formData, [e.target.name]: e.target.value });
     };
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        if (formData.name && formData.firstName && formData.email && formData.message) {
-            alert("Message envoyé avec succès ! (Démo)");
-            setFormData({ name: "", firstName: "", email: "", message: "" });
-        } else {
-            alert("Veuillez remplir tous les champs");
-        }
+        setLoading(true);
+
+        emailjs
+            .send(
+                "service_5ay5uj8",      // Service ID
+                "template_oyw7sbm",     // Template ID
+                {
+                    name: formData.name,
+                    firstName: formData.firstName,
+                    email: formData.email,
+                    message: formData.message,
+                },
+                "TjAgYg3OeLxuYmqO_"      // Public Key
+            )
+            .then(() => {
+                alert("Message envoyé avec succès 🚀");
+                setFormData({
+                    name: "",
+                    firstName: "",
+                    email: "",
+                    message: ""
+                });
+            })
+            .catch((error) => {
+                console.error(error);
+                alert("Erreur lors de l'envoi ❌");
+            })
+            .finally(() => {
+                setLoading(false);
+            });
     };
 
     return (
@@ -77,9 +104,13 @@ export default function Contact() {
                         />
                     </div>
 
-                    <button type="submit" className="submit-button">
+                    <button
+                        type="submit"
+                        className="submit-button"
+                        disabled={loading}
+                    >
                         <Send className="submit-icon" />
-                        Envoyer
+                        {loading ? "Envoi..." : "Envoyer"}
                     </button>
                 </form>
             </div>
