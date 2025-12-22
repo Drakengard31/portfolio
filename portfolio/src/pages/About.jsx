@@ -39,7 +39,7 @@ export default function About() {
                 </div>
 
                 <div className="profile-footer">
-                    <a href="https://github.com/votre-username" className="social-link">
+                    <a href="https://github.com/Drakengard31" className="social-link">
                         <Github className="social-icon" />
                     </a>
                     <a href="https://linkedin.com/in/votre-profil" className="social-link">
