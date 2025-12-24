@@ -9,7 +9,7 @@ export const projects = [
         competences: "Intégrer des éléments sur une page web en utilisant les fondamentaux de HTML.",
         technologies: ["HTML", "CSS"],
         github: "https://github.com/Drakengard31/projet-2-openclassroom",
-        demo: "#"
+        demo: "https://venerable-torte-ad29d9.netlify.app/"
     },
     {
         id: "booki",
@@ -21,7 +21,7 @@ export const projects = [
         competences: "Intégrer du contenu conformément à une maquette - Implémenter une interface responsive.",
         technologies: ["HTML", "CSS", "Responsive"],
         github: "https://github.com/Drakengard31/Projet3-openclassroom",
-        demo: "#"
+        demo: "https://tourmaline-peony-f00cfc.netlify.app/"
     },
     {
         id: "ohmyfood",
@@ -33,7 +33,43 @@ export const projects = [
         competences: "Mettre en œuvre des effets CSS graphiques avancés - Assurer la cohérence graphique d'un site web.",
         technologies: ["HTML", "CSS", "SASS", "Animations CSS"],
         github: "https://github.com/Drakengard31/openclassroomprojet-4",
-        demo: "#"
+        demo: "https://neon-croquembouche-40c1eb.netlify.app/"
+    },
+    {
+        id:"kasa",
+        title: "Kasa",
+        image: "https://crazyapp.fr/wp-content/uploads/elementor/thumbs/Kasa-OpenClassrooms--qv0ds7wgcrcnuwfla0oeibolbbvnqq2rvk4di8inh4.png",
+        description: "Créez une application web de location immobilière avec React",
+        longDescription: "Kasa fait partie des leaders de la location d'appartements entre particuliers en France.",
+        mission: "Créez une application web de location immobilière avec React.",
+        competences: "Mettre en place React et React Router est essentielle dans le développement web moderne, en particulier pour la création d'application web dynamique et réactives",
+        technologies: ["React", "React Router","Node.js"],
+        github: "https://github.com/Drakengard31/p7-kasa",
+        demo: "https://leafy-arithmetic-d8a037.netlify.app/",
+    },
+    {
+        id:"724events",
+        title: "724events",
+        image: "https://724events-ac.vercel.app/images/jakob-dalbjorn-cuKJre3nyYc-unsplash%201.png",
+        description: "Débuggez le site d'une agence d'événementiel",
+        longDescription: "Une agence événementielle propose des prestations de service spécialisées dans la conception et l'organisation de divers événements tels que des événements festifs, des manifestations sportives et culturelles, des événements professionnels",
+        mission: "Débuggez le site de l'agence",
+        competences: "Le débogage est une compétence essentielle pour tout développeur web, car il est crucial de pouvoir identifier et résoudre rapidement les problèmes dans le code.",
+        technologies: ["React Developper Tools","Yarn","Node.js"],
+        github: "https://github.com/Drakengard31/p9",
+        demo: "https://beamish-nasturtium-d23c09.netlify.app/"
+    },
+    {
+        id:"Print-it",
+        title: "Print it",
+        image: "https://graceful-medovik-ce092a.netlify.app/assets/images/yellow-book.jpg",
+        description: "Premier pas sur JavaScript",
+        longDescription: "Print it est une entreprise d'impressions qui imprimes dans tout les formats et fait même des autocollants.",
+        mission:"Réaliser un carrousel infini est idéal",
+        competences: "Savoir programmer en JavaScript est essentiel pour tout développeur web. Ce langage est omniprésent dans le développement web moderne, et sa maîtrise est cruciale pour créer des sites web interactifs et réactifs.",
+        technologies: ["JavaScript"],
+        github: "https://github.com/Drakengard31/openClassroomprojet-5",
+        demo: "https://graceful-medovik-ce092a.netlify.app/",
     },
     // mettre les autres projets
 ];

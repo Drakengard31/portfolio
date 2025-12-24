@@ -173,6 +173,40 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+/* Responsive breakpoints pour le header */
+@media (min-width: 375px) {
+  .nav-links {
+    display: none;
+  }
+  .header-container {
+    padding: 0 1rem;
+  }
+}
+
+
+@media (min-width: 768px) {
+  .header-container {
+    padding: 0 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .header-container {
+    padding: 0 4rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .header-container {
+    padding: 0 8rem;
+  }
+}
+
+@media (min-width: 1536px) {
+  .header-container {
+    padding: 0 11rem;
+  }
+}
 
 .logo-section {
   display: flex;
@@ -272,6 +306,9 @@ footer {
 
 .footer-text {
   color: var(--gray-600);
+}
+.main-content.with-fixed-footer {
+  padding-bottom: 80px; /* Ajuste selon la hauteur de ton footer */
 }
 
 /* About page styles */

@@ -6,7 +6,7 @@ import Router from "./router/Router";
 export default function App() {
     return (
         <BrowserRouter>
-            <div className="min-h-screen bg-gray-50">
+            <div  id={"root"}>
                 <Header />
                 <main className="main-content">
                     <Router />
