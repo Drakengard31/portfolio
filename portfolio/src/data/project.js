@@ -71,5 +71,17 @@ export const projects = [
         github: "https://github.com/Drakengard31/openClassroomprojet-5",
         demo: "https://graceful-medovik-ce092a.netlify.app/",
     },
+    {
+        id:"ArgentBank",
+        title: "ArgentBank",
+        image: "https://josephine-dujardin.github.io/argent-bank/static/media/icon-money.8ec88bb1a5070fd6513a.png",
+        description: "Implementez le front-end dans une application bancaire avec React",
+        longDescription: "Argent Bank est une banque en ligne ",
+        mission:"Implémentez le front-end d'une application bancaire avec React",
+        competences: "La maîtrise de React et Redux est cruciale pour tout développeur front-end moderne, en particulier pour ceux qui travaillent sur des applications web complexes. ",
+        technologies: ["React","Redux","Swagger",],
+        github: "https://github.com/Drakengard31/ArgentBank-Frontend",
+        demo: "*"
+    }
     // mettre les autres projets
 ];

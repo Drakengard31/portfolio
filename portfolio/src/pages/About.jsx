@@ -42,10 +42,10 @@ export default function About() {
                     <a href="https://github.com/Drakengard31" className="social-link">
                         <Github className="social-icon" />
                     </a>
-                    <a href="https://linkedin.com/in/votre-profil" className="social-link">
+                    <a href="https://www.linkedin.com/in/dimitri-luc-03909b3a2/" className="social-link">
                         <Linkedin className="social-icon" />
                     </a>
-                    <a href="mailto:votre-email@example.com" className="social-link">
+                    <a href="mailto:lucdimitri31@gmail.com" className="social-link">
                         <Mail className="social-icon" />
                     </a>
                     <button className="download-cv-btn">
