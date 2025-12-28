@@ -48,9 +48,13 @@ export default function About() {
                     <a href="mailto:lucdimitri31@gmail.com" className="social-link">
                         <Mail className="social-icon" />
                     </a>
-                    <button className="download-cv-btn">
+                    <a
+                        href={"/docs/cv Dimitri.odt"}
+                        download
+                        className="download-cv-btn"
+                    >
                         Télécharger mon CV
-                    </button>
+                    </a>
                 </div>
             </div>
         </div>
