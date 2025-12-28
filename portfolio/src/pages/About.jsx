@@ -33,7 +33,7 @@ export default function About() {
                         <p className="profile-paragraph">
                             Je suis très enthousiaste à l'idée de découvrir de nouvelles opportunités et de développer
                             de nouvelles compétences dans le domaine du développement web. J'ai choisi de travailler
-                            avec React Router car je comprends mieux ce qui se passe avec JavaScript.
+                            avec React Router car je comprends mieux quand le code est bien organisé et structuré.
                         </p>
                     </div>
                 </div>
