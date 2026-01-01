@@ -180,6 +180,10 @@ body {
   }
   .header-container {
     padding: 0 1rem;
+    height: auto;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
   }
 }
 
@@ -205,6 +209,8 @@ body {
 @media (min-width: 1536px) {
   .header-container {
     padding: 0 11rem;
+    display: flex;
+    justify-content: space-between;
   }
 }
 
@@ -245,6 +251,12 @@ body {
   color: var(--gray-600);
   text-decoration: none;
   position: relative;
+}
+@media (max-width: 375px) {
+  .nav-link {
+    padding: 0.5rem 0;
+    font-size: 15px;
+  }
 }
 
 .nav-link:hover {
@@ -464,6 +476,11 @@ footer {
   border-radius: 1rem;
   box-shadow: var(--shadow);
   padding: 2rem;
+}
+@media (max-width: 375px) {
+  .skills-category {
+    padding: 0;
+  }
 }
 
 .category-title {
