@@ -2,7 +2,7 @@ export const projects = [
     {
         id: "riding-cities",
         title: "Riding Cities",
-        image: "https://word-dev-portfolio.com/wp-content/uploads/2024/01/Reding_Cities.webp",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVnv2QU-t6qO84D4FVI_4ztD64AoONIwcxA&s",
         description: "Le projet 2 du parcours Intégrateur Web d'OpenClassrooms nous permet de découvrir le langage HTML au travers du site Internet de Riding Cities.",
         longDescription: "Riding Cities est une association de skateboard qui a besoin d'améliorer son site Internet.",
         mission: "Actualiser la page Internet de Riding Cities.",
@@ -82,6 +82,6 @@ export const projects = [
         technologies: ["React","Redux","Swagger",],
         github: "https://github.com/Drakengard31/ArgentBank-Frontend",
         demo: "*"
-    }
+    },
     // mettre les autres projets
 ];
