@@ -49,7 +49,7 @@ export default function About() {
                         <Mail className="social-icon" />
                     </a>
                     <a
-                        href={"/docs/Cv_Dimitri_luc_Developeur_Frontend_React_Junior.docx"}
+                        href={"/docs/Cv_Dimitri_Luc_Developeur_Frontend_React_Junior.docx"}
                         download
                         className="download-cv-btn"
                     >
