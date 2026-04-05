@@ -6,7 +6,7 @@ export default function About() {
             <div className="profile-card">
                 <div className="profile-header">
                     <div className="profile-image-container">
-                        <div className="profile-image-placeholder">L</div>
+                        <img src="/1000001915.jpg" alt="Luc Dimitri" className="profile-image-placeholder" />
                         <div className="profile-info">
                             <h3 className="profile-name">Luc Dimitri</h3>
                             <p className="profile-title">Développeur Frontend React Junior — Disponible immédiatement</p>
