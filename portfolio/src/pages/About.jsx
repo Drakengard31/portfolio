@@ -9,31 +9,28 @@ export default function About() {
                         <div className="profile-image-placeholder">L</div>
                         <div className="profile-info">
                             <h3 className="profile-name">Luc Dimitri</h3>
-                            <p className="profile-title">Développeur front-end</p>
+                            <p className="profile-title">Développeur Frontend React Junior — Disponible immédiatement</p>
                         </div>
                     </div>
 
                     <div className="profile-content">
                         <p className="profile-paragraph">
-                            Passionné par les nouvelles technologies, j'ai choisi de me reconvertir professionnellement
-                            après 6 années passées chez McDonald's et de suivre ma passion pour la programmation.
+                            Développeur frontend diplômé d'OpenClassrooms (Bac +2, février 2025), je conçois des
+                            interfaces web modernes, responsives et accessibles avec React, Redux et JavaScript ES6+.
+                            Disponible en full remote, hybride ou sur site près de Commercy (55).
                         </p>
 
                         <p className="profile-paragraph">
-                            Avant même de commencer ma formation, je m'intéressais déjà au développement et j'avais
-                            exploré quelques bases en Python, bien que de manière très limitée.
+                            Reconverti après 6 ans en restauration, j'ai choisi le développement web par passion réelle
+                            pour le code — j'explorais déjà HTML et JavaScript avant même de commencer ma formation.
+                            Cette reconversion m'a appris à apprendre vite, à m'organiser et à livrer des projets
+                            concrets.
                         </p>
 
                         <p className="profile-paragraph">
-                            Afin de me développer dans le domaine du développement web, j'ai intégré la formation
-                            intégrateur web niveau Bac +2 d'OpenClassrooms au cours de laquelle j'ai acquis des
-                            compétences solides en HTML, CSS, JavaScript et React.
-                        </p>
-
-                        <p className="profile-paragraph">
-                            Je suis très enthousiaste à l'idée de découvrir de nouvelles opportunités et de développer
-                            de nouvelles compétences dans le domaine du développement web. J'ai choisi de travailler
-                            avec React Router car je comprends mieux quand le code est bien organisé et structuré.
+                            Aujourd'hui j'élargis ma stack vers le fullstack en apprenant Node.js et Express, avec
+                            l'objectif de devenir développeur fullstack JavaScript. Chaque projet que je construis
+                            est une occasion d'aller plus loin.
                         </p>
                     </div>
                 </div>
