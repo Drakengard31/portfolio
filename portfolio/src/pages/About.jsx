@@ -46,7 +46,7 @@ export default function About() {
                         <Mail className="social-icon" />
                     </a>
                     <a
-                        href={"/docs/CV_Dimitri_Luc_Developpeur_Frontend_React_Junior.docx"}
+                        href={"/docs/cv Dimitri.pdf"}
                         download
                         className="download-cv-btn"
                     >
