@@ -81,7 +81,7 @@ export const projects = [
         competences: "La maîtrise de React et Redux est cruciale pour tout développeur front-end moderne, en particulier pour ceux qui travaillent sur des applications web complexes. ",
         technologies: ["React","Redux","Swagger",],
         github: "https://github.com/Drakengard31/ArgentBank-Frontend",
-        demo: "*"
+        demo: "https://argentbanque.netlify.app/"
     },
     // mettre les autres projets
 ];
