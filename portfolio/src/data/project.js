@@ -81,7 +81,19 @@ export const projects = [
         competences: "La maîtrise de React et Redux est cruciale pour tout développeur front-end moderne, en particulier pour ceux qui travaillent sur des applications web complexes. ",
         technologies: ["React","Redux","Swagger",],
         github: "https://github.com/Drakengard31/ArgentBank-Frontend",
-        demo: "https://argentbanque.netlify.app/"
+        demo: "https://argentbanque.netlify.app/",
+    },
+    {
+        id:"AppMétéo",
+        title:"AppMétéo",
+        image:"https://www.ici.fr/pikapi/images/1c7efb29-8be4-410b-a272-d4e7bcbbafdc/1280",
+        description: "application météo pour voir la météo en temps reel avec prévision dans 5 jours",
+        longDescription: "application de météo pour voir nimporte ou la météo",
+        mission: "Projet personnelle que j'ai réaliser",
+        competences: "Projet réaliser en autonomie pour travailler en autonomie et travailler mon code",
+        technologies: ["React","JavaScript ES6+","API REST (OpenWeatherMap)","Vite","CSS"],
+        github: "https://github.com/Drakengard31/AppMeteo",
+        demo: "https://meteoappl.netlify.app/"
     },
     // mettre les autres projets
 ];
