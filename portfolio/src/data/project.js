@@ -95,5 +95,17 @@ export const projects = [
         github: "https://github.com/Drakengard31/AppMeteo",
         demo: "https://meteoappl.netlify.app/"
     },
+    {
+        id:"site vitrine d'une boulangerie",
+        title: "Site vitrine d'une boulangerie",
+        image: "https://www.boulangerielafabrique.fr/public/img/big/breadsinbasketandbowl2128535jpg_5edfb5b946f95.jpg",
+        description: "Voici le site vitrine d'une boulangerie",
+        longDescription: "Voici le site vitrine d'une boulangerie qui propose c'est produit",
+        mission: "Projet personnelle que j'ai réaliser",
+        competences: "Projet réaliser en autonomie pour travailler en autonomie et travailler mon code",
+        technologies: ["React 18","React Router v6","Vite","CSS"],
+        github: "https://github.com/Drakengard31/site-vitrine",
+        demo: "https://site-vitrine-boulangerie.netlify.app/",
+    },
     // mettre les autres projets
 ];
