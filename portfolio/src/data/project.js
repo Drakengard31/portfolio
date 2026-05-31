@@ -77,7 +77,7 @@ export const projects = [
         image: "https://rayan-dahmena.fr/static/media/main-background-p13.87301039cd7575d95251.png",
         description: "Implementez le front-end dans une application bancaire avec React",
         longDescription: "Argent Bank est une banque en ligne ",
-        mission:"Implémentez le front-end d'une application bancaire avec React",
+        mission:"Création d'une interface bancaire complète avec authentification utilisateur, gestion d'état Redux et communication avec une API REST.",
         competences: "• Mise en place d'une authentification JWT\n" +
             "• Gestion de l'état global avec Redux Toolkit\n" +
             "• Consommation d'une API REST documentée avec Swagger\n" +
