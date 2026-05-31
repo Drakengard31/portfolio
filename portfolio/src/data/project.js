@@ -76,14 +76,14 @@ export const projects = [
         title: "ArgentBank",
         image: "https://rayan-dahmena.fr/static/media/main-background-p13.87301039cd7575d95251.png",
         description: "Implementez le front-end dans une application bancaire avec React",
-        longDescription: "Argent Bank est une banque en ligne ",
+        longDescription: "Application bancaire développée avec React et Redux permettant l'authentification des utilisateurs, la consultation des comptes et la gestion du profil via une API REST sécurisée.",
         mission:"Création d'une interface bancaire complète avec authentification utilisateur, gestion d'état Redux et communication avec une API REST.",
         competences: "• Mise en place d'une authentification JWT\n" +
             "• Gestion de l'état global avec Redux Toolkit\n" +
             "• Consommation d'une API REST documentée avec Swagger\n" +
             "• Création de routes protégées pour les utilisateurs connectés\n" +
             "• Modification dynamique du profil utilisateur ",
-        technologies: ["React","Redux","Swagger",],
+        technologies: ["React","Redux","Swagger,JWT",],
         github: "https://github.com/Drakengard31/ArgentBank-Frontend",
         demo: "https://argentbanque.netlify.app/",
     },
