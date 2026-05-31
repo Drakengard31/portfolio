@@ -83,7 +83,7 @@ export const projects = [
             "• Consommation d'une API REST documentée avec Swagger\n" +
             "• Création de routes protégées pour les utilisateurs connectés\n" +
             "• Modification dynamique du profil utilisateur ",
-        technologies: ["React","Redux","Swagger,JWT",],
+        technologies: ["React","Redux","Swagger","Jwt",],
         github: "https://github.com/Drakengard31/ArgentBank-Frontend",
         demo: "https://argentbanque.netlify.app/",
     },
