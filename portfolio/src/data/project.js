@@ -74,7 +74,7 @@ export const projects = [
     {
         id:"ArgentBank",
         title: "ArgentBank",
-        image: "https://josephine-dujardin.github.io/argent-bank/static/media/icon-money.8ec88bb1a5070fd6513a.png",
+        image: "https://rayan-dahmena.fr/static/media/main-background-p13.87301039cd7575d95251.png",
         description: "Implementez le front-end dans une application bancaire avec React",
         longDescription: "Argent Bank est une banque en ligne ",
         mission:"Implémentez le front-end d'une application bancaire avec React",
