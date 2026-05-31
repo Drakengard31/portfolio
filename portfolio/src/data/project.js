@@ -78,7 +78,11 @@ export const projects = [
         description: "Implementez le front-end dans une application bancaire avec React",
         longDescription: "Argent Bank est une banque en ligne ",
         mission:"Implémentez le front-end d'une application bancaire avec React",
-        competences: "La maîtrise de React et Redux est cruciale pour tout développeur front-end moderne, en particulier pour ceux qui travaillent sur des applications web complexes. ",
+        competences: "• Mise en place d'une authentification JWT\n" +
+            "• Gestion de l'état global avec Redux Toolkit\n" +
+            "• Consommation d'une API REST documentée avec Swagger\n" +
+            "• Création de routes protégées pour les utilisateurs connectés\n" +
+            "• Modification dynamique du profil utilisateur ",
         technologies: ["React","Redux","Swagger",],
         github: "https://github.com/Drakengard31/ArgentBank-Frontend",
         demo: "https://argentbanque.netlify.app/",
