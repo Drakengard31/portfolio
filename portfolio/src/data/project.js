@@ -111,5 +111,16 @@ export const projects = [
         github: "https://github.com/Drakengard31/site-vitrine",
         demo: "https://site-vitrine-boulangerie.netlify.app/",
     },
+    {
+        id: "site pour voir les developeurs qui peut nous inspirer et tout langage informatique",
+        title: "Site pour trouver un langague informatique ou un developpeur spécialiser",
+        image: "",
+        description:"Voici le site vitrine d'une vitrine avec recherche pour trouver le developpeur ou langage informatique",
+        mission: "Projet personnelle que j'ai réaliser",
+        competences: "Projet réaliser en autonomie pour travailler en autonomie et travailler mon code",
+        technologies: ["React 18","Vite","Tailwind CSS v3","React Router v6"],
+        github: "https://github.com/Drakengard31/Devshowcase",
+        demo: "hhttps://devshowcase-rosy.vercel.app/",
+    },
     // mettre les autres projets
 ];
