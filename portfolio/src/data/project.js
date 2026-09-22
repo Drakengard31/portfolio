@@ -26,7 +26,7 @@ export const projects = [
     {
         id: "ohmyfood",
         title: "OhMyFood",
-        image: "https://arthurblanc.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F010.b40736b0.jpg&w=3840&q=75",
+        image: "https://realiweb.fr/images/portfolio/nextImageExportOptimizer/portfolio-project-ohmyfood-cover-hero-opt-1920.WEBP",
         description: "Améliorer l'interface d'un site mobile avec des animations CSS.",
         longDescription: "OhMyFood est une jeune startup qui voudrait s'imposer sur le marché de la restauration.",
         mission: 'Développer un site "mobile first" qui répertorie les menus de restaurants gastronomiques avec animations CSS.',
@@ -74,7 +74,7 @@ export const projects = [
     {
         id:"ArgentBank",
         title: "ArgentBank",
-        image: "https://rayan-dahmena.fr/static/media/main-background-p13.87301039cd7575d95251.png",
+        image: "https://celinepoinson.com/_next/image?url=%2Fimages%2Fprojects%2Fargent-bank.png&w=1080&q=75",
         description: "Implementez le front-end dans une application bancaire avec React",
         longDescription: "Application bancaire développée avec React et Redux permettant l'authentification des utilisateurs, la consultation des comptes et la gestion du profil via une API REST sécurisée.",
         mission:"Création d'une interface bancaire complète avec authentification utilisateur, gestion d'état Redux et communication avec une API REST.",
