@@ -114,7 +114,7 @@ export const projects = [
     {
         id: "site pour voir les developeurs qui peut nous inspirer et tout langage informatique",
         title: "Site pour trouver un langague informatique ou un developpeur spécialiser",
-        image: "",
+        image: "https://cdn.leonardo.ai/users/22ee0e63-3eaf-456c-b625-722fddf78609/generations/1f1b6c3e-a467-6500-8d1a-6418135c4222/gpt-image-2_A_sleek_modern_web_application_dashboard_UI_mockup_displayed_on_a_laptop_screen_-0.jpg",
         description:"Voici le site vitrine d'une vitrine avec recherche pour trouver le developpeur ou langage informatique",
         mission: "Projet personnelle que j'ai réaliser",
         competences: "Projet réaliser en autonomie pour travailler en autonomie et travailler mon code",
