@@ -120,7 +120,7 @@ export const projects = [
         competences: "Projet réaliser en autonomie pour travailler en autonomie et travailler mon code",
         technologies: ["React 18","Vite","Tailwind CSS v3","React Router v6"],
         github: "https://github.com/Drakengard31/Devshowcase",
-        demo: "hhttps://devshowcase-rosy.vercel.app/",
+        demo: "https://devshowcase-rosy.vercel.app/",
     },
     // mettre les autres projets
 ];
