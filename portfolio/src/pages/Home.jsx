@@ -23,8 +23,7 @@ export default function Home() {
                 <p className="description">
                     Je suis très enthousiaste à l'idée de découvrir de nouvelles opportunités
                     et développer de nouvelles compétences dans le domaine du développement web.
-                    J'ai choisi de travailler avec React Router car je comprends mieux ce qui
-                    se passe avec JavaScript.
+                    je conçois des interfaces modernes, reponsives et accessibles.
                 </p>
             </section>
 
