@@ -2,7 +2,7 @@ export const projects = [
     {
         id: "riding-cities",
         title: "Riding Cities",
-        image: "/images/projects/riding-cities.png",
+        image: "/images/projects/riding-cities.webp",
         description: "Refonte de la page d'accueil d'une association de skateboard : intégration HTML/CSS sémantique et accessible.",
         longDescription: "Riding Cities, association de skateboard, souhaitait moderniser son site vitrine pour mieux communiquer sur ses activités et attirer de nouveaux adhérents.",
         mission: "Actualiser la page d'accueil à partir d'une maquette : structuration sémantique du contenu, intégration des nouvelles sections et mise en forme CSS.",
@@ -14,7 +14,7 @@ export const projects = [
     {
         id: "booki",
         title: "Booki",
-        image: "/images/projects/booki.png",
+        image: "/images/projects/booki.webp",
         description: "Page d'accueil d'un site de planification de voyages, intégrée depuis une maquette Figma et entièrement responsive.",
         longDescription: "Booki est une startup proposant un outil de planification de vacances pour trouver des hébergements et des activités dans la ville de son choix.",
         mission: "Intégrer la page d'accueil conformément à la maquette Figma, avec mise en page Flexbox et adaptation responsive (mobile, tablette, desktop).",
@@ -26,7 +26,7 @@ export const projects = [
     {
         id: "ohmyfood",
         title: "OhMyFood",
-        image: "/images/projects/ohmyfood.png",
+        image: "/images/projects/ohmyfood.webp",
         description: "Application mobile-first répertoriant les menus de restaurants gastronomiques, avec animations CSS avancées.",
         longDescription: "OhMyFood, jeune startup de la restauration, voulait s'imposer sur le marché avec une expérience mobile soignée et des animations d'interface fluides.",
         mission: "Développer l'application en mobile-first : intégration des maquettes et création d'animations CSS (loader, apparition progressive des plats, effets au survol) avec SASS.",
@@ -62,7 +62,7 @@ export const projects = [
     {
         id: "print-it",
         title: "Print it",
-        image: "/images/projects/print-it.png",
+        image: "/images/projects/print-it.webp",
         description: "Dynamisation du site d'une imprimerie : création d'un carrousel d'images interactif en JavaScript vanilla.",
         longDescription: "Print it, entreprise d'impression proposant des formats variés (affiches, autocollants…), voulait rendre son site vitrine interactif.",
         mission: "Développer un carrousel infini en JavaScript : navigation par flèches et bullets, défilement automatique et gestion des événements DOM.",
@@ -74,7 +74,7 @@ export const projects = [
     {
         id: "argent-bank",
         title: "ArgentBank",
-        image: "/images/projects/argent-bank.png",
+        image: "/images/projects/argent-bank.jpg",
         description: "Front-end d'une application bancaire : authentification JWT, gestion d'état avec Redux et communication avec une API REST.",
         longDescription: "Application bancaire développée avec React et Redux permettant l'authentification des utilisateurs, la consultation des comptes et la gestion du profil via une API REST sécurisée.",
         mission: "Créer une interface bancaire complète : authentification utilisateur, gestion d'état Redux et communication avec une API REST documentée.",
@@ -98,7 +98,7 @@ export const projects = [
     {
         id: "boulangerie",
         title: "Site vitrine — Boulangerie",
-        image: "/images/projects/boulangerie.png",
+        image: "/images/projects/boulangerie.jpg",
         description: "Site vitrine pour une boulangerie artisanale : présentation des produits, galerie et informations pratiques.",
         longDescription: "Projet personnel : site vitrine présentant les produits d'une boulangerie artisanale (pains, viennoiseries, pâtisseries).",
         mission: "Créer un site vitrine moderne en React : structure multi-pages, mise en page soignée et optimisation pour mobile.",
@@ -110,7 +110,7 @@ export const projects = [
     {
         id: "devshowcase",
         title: "DevShowcase",
-        image: "/images/projects/devshowcase.png",
+        image: "/images/projects/devshowcase.jpg",
         description: "Annuaire interactif de développeurs et de langages informatiques, avec recherche et filtrage en temps réel.",
         longDescription: "Projet personnel : application permettant de découvrir des développeurs inspirants et d'explorer les langages informatiques grâce à un système de recherche.",
         mission: "Développer l'application de bout en bout : interface avec Tailwind CSS, système de recherche et de filtrage des données, routage.",
